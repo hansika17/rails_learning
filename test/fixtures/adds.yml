@@ -1,0 +1,39 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  column: MyString
+  rails: MyString
+  g: MyString
+  model: MyString
+  add: MyString
+  column: MyString
+  rails: MyString
+  g: MyString
+  model: MyString
+  add: MyString
+  c: MyString
+  user: one
+  name: MyString
+  username: MyString
+  image: MyString
+  token: MyString
+  secret: MyString
+
+two:
+  column: MyString
+  rails: MyString
+  g: MyString
+  model: MyString
+  add: MyString
+  column: MyString
+  rails: MyString
+  g: MyString
+  model: MyString
+  add: MyString
+  c: MyString
+  user: two
+  name: MyString
+  username: MyString
+  image: MyString
+  token: MyString
+  secret: MyString
